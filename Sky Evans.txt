@@ -9,4 +9,8 @@ lkkkk
 BOYYYY
 i think i just screwed iup[ everything
 
+<<<<<<< HEAD
 LOLOLOL
+=======
+Stop typing
+>>>>>>> origin/master
